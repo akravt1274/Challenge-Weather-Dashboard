@@ -1,0 +1,30 @@
+body {
+    background-color: #eeedec;
+    letter-spacing: 0.1em;
+    font-size: 1em;
+    background-image: linear-gradient(to bottom, #d4e2f4, #bed7f7, #a9cbfa, #93bffd, #7cb3ff);
+}
+
+.header {
+    background-image: linear-gradient(to right top, #0043db, #005fe5, #2679ea, #4b90ed, #6ea7ed);
+}
+
+h1,
+h5 {
+    color: white !important; 
+}
+
+#current-weather {
+    background-image: linear-gradient(to bottom, #cee3fe, #d2e5fd, #d6e7fc, #dae8fa, #deeaf9);
+}
+.details {
+    background-image: linear-gradient(to bottom, #1b5bec, #2e76f3, #4c8ff6, #6da6f7, #90bdf6);
+}
+
+@media(max-width: 1200px) {
+    #future-weather {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+}
