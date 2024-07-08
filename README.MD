@@ -29,4 +29,4 @@ Clicking on a city in the search history displays the current and future conditi
 
 ## Review
 
-The URL of the deployed application:
+The URL of the deployed application: https://akravt1274.github.io/Challenge-Weather-Dashboard/
